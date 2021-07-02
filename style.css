@@ -126,7 +126,8 @@ td {
 }
   
 .attribution { font-size: 11px; text-align: center;
-color: aliceblue; }
+color: aliceblue;
+text-decoration:none:}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
